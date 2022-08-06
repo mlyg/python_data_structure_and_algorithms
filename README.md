@@ -1,2 +1,3 @@
-# python_data_structure_and_algorithms
+# Python Data Structures & Algorithms
+
 My answers to Goodrich's Data structures and Algorithms textbook questions
